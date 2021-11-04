@@ -1,0 +1,1 @@
+This contains an EPUB plus its unzipped form. We will attempt to insert a page break HTML tag after every segmented line in the entire work and hope that the book will then become a "sentential reader" but without losing its Table of Contents functionality.
